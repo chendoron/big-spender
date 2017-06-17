@@ -1,5 +1,7 @@
 {
-  "presets": [
-    "react"
+  "presets": ["react"],
+  "plugins": [
+    "transform-react-pug",
+    "transform-react-jsx",
   ]
 }
