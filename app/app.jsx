@@ -39,4 +39,4 @@ const mock = [
   { category: 'Electronics', price: '$199.99', stocked: true, name: 'Nexus 7' },
 ];
 
-ReactDOM.render(<App user={user} mock={mock} />, document.getElementById('app'));
+ReactDOM.render(<App user={user} mock={mock} />, document.getElementById('root'));
