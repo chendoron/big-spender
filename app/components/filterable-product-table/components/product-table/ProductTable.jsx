@@ -1,4 +1,5 @@
 import React from 'react';
+import Styles from './ProductTable.scss';
 import ProductCategoryRow from './components/product-category-row/product-category-row.jsx';
 import ProductRow from './components/product-row/product-row.jsx';
 
@@ -22,7 +23,11 @@ export default class ProductTable extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className={Styles.productTable}>
+        <div className={Styles.tableHeaderRow}>
+          <div>Name</div>
+          <div>Price</div>
+        </div>
        {this.tableRows}
       </div>
     );

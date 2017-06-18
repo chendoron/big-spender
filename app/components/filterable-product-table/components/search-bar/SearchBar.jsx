@@ -1,4 +1,5 @@
 import React from 'react';
+import Styles from './SearchBar.scss';
 
 export default class SearchBar extends React.Component {
   constructor(props) {
@@ -8,13 +9,12 @@ export default class SearchBar extends React.Component {
 
   render() {
     return (
-      <form>
+      <form className={Styles.searchBar}>
         <input type="text" placeholder="Search..." />
-        <p>
+        <label>
           <input type="checkbox" />
-          {' '}
-          Only show products in stock
-        </p>
+          <span> Only show products in stock</span>
+        </label>
       </form>
     );
   }

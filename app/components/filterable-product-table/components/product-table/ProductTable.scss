@@ -1,0 +1,14 @@
+@mixin display-flex($direction) {
+  display: flex;
+  flex-direction: $direction;
+}
+
+.product-table {
+  @include display-flex(column);
+}
+
+.table-header-row {
+  @include display-flex(row);
+
+  justify-content: space-around;
+}

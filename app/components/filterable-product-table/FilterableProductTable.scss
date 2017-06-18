@@ -1,10 +1,11 @@
-@mixin flex($direction) {
+@mixin display-flex($direction) {
   display: flex;
   flex-direction: $direction;
 }
 
 .filterable-product-table {
-  @include flex(column);
+  @include display-flex(column);
 
   box-sizing: border-box;
+  width: 300px;
 }

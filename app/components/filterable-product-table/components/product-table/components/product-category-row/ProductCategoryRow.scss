@@ -1,0 +1,11 @@
+@mixin display-flex($direction) {
+  display: flex;
+  flex-direction: $direction;
+}
+
+.table-category-row {
+  @include display-flex(row);
+
+  font-weight: 600;
+  justify-content: flex-start;
+}
