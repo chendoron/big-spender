@@ -8,16 +8,40 @@ module.exports = {
     path: Path.resolve('dist'),
   },
   module: {
-    loaders: [
-      { test: /\.pug$/, loader: 'pug-loader', exclude: /node_modules/ },
-      { test: /\.scss$/, loader: 'sass-loader', exclude: /node_modules/ },
-      { test: /\.js$/, loader: 'babel-loader', exclude: /node_modules/ },
-      { test: /\.jsx$/, loader: 'babel-loader', exclude: /node_modules/ },
-    ],
+    rules: [{
+      test: /\.scss$/,
+      use: ['style-loader', {
+        loader: 'css-loader',
+        options: {
+          importLoaders: 1,
+          camelCase: true,
+          // localIdentName: '[name]__[local]___[hash:base64:5]',
+          localIdentName: '[name]_[hash:base64:5]',
+          modules: true,
+          sourceMap: true,
+        },
+      }, {
+        loader: 'sass-loader',
+        options: {
+          sourceMap: true,
+        },
+      }],
+      exclude: /node_modules/,
+    }, {
+      test: /\.jsx$/,
+      use: 'babel-loader',
+      exclude: /node_modules/,
+    }, {
+      test: /\.pug$/,
+      use: 'pug-loader',
+      exclude: /node_modules/,
+    }],
   },
-  plugins: [new HtmlWebpackPlugin({
-    template: 'index.pug',
-  })],
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: 'index.pug',
+    }),
+  ],
   devServer: {
     compress: true,
     port: 9000,
