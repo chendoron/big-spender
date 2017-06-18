@@ -3,6 +3,10 @@
   flex-direction: $direction;
 }
 
+@mixin flex($grow: 0, $shrink: 1, $basis: initial) {
+  flex: $grow $shrink $basis;
+}
+
 .product-table {
   @include display-flex(column);
 }
@@ -11,4 +15,8 @@
   @include display-flex(row);
 
   justify-content: space-around;
+}
+
+.table-header-column {
+  @include flex(1, 1, 100%);
 }

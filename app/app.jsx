@@ -1,7 +1,7 @@
 /* global document */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FilterableProductTable from './components/filterable-product-table/filterable-product-table.jsx';
+import FilterableProductTable from './components/FilterableProductTable/FilterableProductTable.jsx';
 
 class App extends React.Component {
   constructor(props) {
