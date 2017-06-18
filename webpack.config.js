@@ -15,7 +15,6 @@ module.exports = {
         options: {
           importLoaders: 1,
           camelCase: true,
-          // localIdentName: '[name]__[local]___[hash:base64:5]',
           localIdentName: '[name]_[hash:base64:5]',
           modules: true,
           sourceMap: true,
@@ -28,7 +27,7 @@ module.exports = {
       }],
       exclude: /node_modules/,
     }, {
-      test: /\.jsx$/,
+      test: /\.(js|jsx)$/,
       use: 'babel-loader',
       exclude: /node_modules/,
     }, {
