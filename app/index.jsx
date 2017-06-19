@@ -2,6 +2,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
+import { createStore } from 'redux';
+import { Provider } from 'react-redux';
+import reducer from './reducers/reducer.jsx';
 import FilterableProductTable from './components/FilterableProductTable/FilterableProductTable.jsx';
 
 const user = {
@@ -17,6 +20,11 @@ const products = [
   { category: 'Sporting Goods', price: '$29.99', stocked: false, name: 'Basketball' },
   { category: 'Electronics', price: '$199.99', stocked: true, name: 'Nexus 7' },
 ];
+
+const store = createStore(reducer);
+
+// Print state changes
+store.subscribe(() => console.log(store.getState()));
 
 class App extends React.Component {
   constructor(props) {
@@ -34,9 +42,9 @@ class App extends React.Component {
 
   render() {
     return (
-      <div>
+      <Provider store={store}>
         <FilterableProductTable products={this.products} />
-      </div>
+      </Provider>
     );
   }
 }

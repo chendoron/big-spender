@@ -34,16 +34,9 @@ export default class FilterableProductTable extends React.Component {
   render() {
     return (
       <div className={Styles.filterableProductTable}>
-        <SearchBar
-          filterText={this.state.filterText}
-          isStockOnly={this.state.isStockOnly}
-          onFilterTextChange={this.onFilterTextChange}
-          onStockOnlyChange={this.onStockOnlyChange}
-        />
+        <SearchBar />
         <ProductTable
           products={this.props.products}
-          filterText={this.state.filterText}
-          isStockOnly={this.state.isStockOnly}
         />
       </div>
     );
