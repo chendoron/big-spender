@@ -15,7 +15,7 @@ module.exports = {
         options: {
           importLoaders: 1,
           camelCase: true,
-          localIdentName: '[name]_[hash:base64:5]',
+          localIdentName: '[local]_[hash:base64:5]',
           modules: true,
           sourceMap: true,
         },
@@ -35,6 +35,9 @@ module.exports = {
       use: 'pug-loader',
       exclude: /node_modules/,
     }],
+  },
+  resolve: {
+    extensions: ['.js', '.jsx', '.scss'],
   },
   plugins: [
     new HtmlWebpackPlugin({
