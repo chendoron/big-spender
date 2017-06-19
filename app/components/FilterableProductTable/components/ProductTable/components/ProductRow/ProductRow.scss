@@ -1,0 +1,27 @@
+@mixin display-flex($direction) {
+  display: flex;
+  flex-direction: $direction;
+}
+
+@mixin flex($grow: 0, $shrink: 1, $basis: initial) {
+  flex: $grow $shrink $basis;
+}
+
+$red: #f00;
+
+.table-product-row {
+  @include display-flex(row);
+
+  justify-content: space-around;
+  padding: 5px;
+}
+
+.table-product-column {
+  @include flex(1, 1, 100%);
+
+  &.out-of-stock {
+    color: $red;
+
+    font-weight: 600;
+  }
+}

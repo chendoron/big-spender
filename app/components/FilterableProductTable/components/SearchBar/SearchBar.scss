@@ -1,0 +1,8 @@
+@mixin display-flex($direction) {
+  display: flex;
+  flex-direction: $direction;
+}
+
+.search-bar {
+  @include display-flex(column);
+}
