@@ -28,7 +28,7 @@ class App extends React.Component {
   static get propTypes() {
     return {
       user: PropTypes.object,
-      products: PropTypes.object.isRequired,
+      products: PropTypes.array.isRequired,
     };
   }
 
