@@ -11,6 +11,9 @@ export default class FilterableProductTable extends React.Component {
       filterText: '',
       isStockOnly: false,
     };
+
+    this.onFilterTextChange = this.onFilterTextChange.bind(this);
+    this.onStockOnlyChange = this.onStockOnlyChange.bind(this);
   }
 
   static get propTypes() {
@@ -20,12 +23,22 @@ export default class FilterableProductTable extends React.Component {
     };
   }
 
+  onFilterTextChange(newFilterText) {
+    this.setState({ filterText: newFilterText });
+  }
+
+  onStockOnlyChange() {
+    this.setState({ isStockOnly: !this.state.isStockOnly });
+  }
+
   render() {
     return (
       <div className={Styles.filterableProductTable}>
         <SearchBar
           filterText={this.state.filterText}
           isStockOnly={this.state.isStockOnly}
+          onFilterTextChange={this.onFilterTextChange}
+          onStockOnlyChange={this.onStockOnlyChange}
         />
         <ProductTable
           products={this.props.products}

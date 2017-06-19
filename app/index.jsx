@@ -35,10 +35,10 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <FilterableProductTable products={ this.products } />
+        <FilterableProductTable products={this.products} />
       </div>
     );
   }
 }
 
-ReactDOM.render(<App user={ user } products={ products } />, document.getElementById('root'));
+ReactDOM.render(<App user={user} products={products} />, document.getElementById('root'));

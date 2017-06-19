@@ -7,6 +7,8 @@ export default class SearchBar extends React.Component {
     return {
       filterText: PropTypes.string.isRequired,
       isStockOnly: PropTypes.bool.isRequired,
+      onFilterTextChange: PropTypes.func,
+      onStockOnlyChange: PropTypes.func,
     };
   }
 
@@ -17,12 +19,14 @@ export default class SearchBar extends React.Component {
           type="text"
           placeholder="Search..."
           value={this.props.filterText}
+          onChange={event => this.props.onFilterTextChange(event.target.value)}
         />
         <label htmlFor="inStock">
           <input
             id="inStock"
             type="checkbox"
             checked={this.props.isStockOnly}
+            onChange={event => this.props.onStockOnlyChange(event.target.checked)}
           />
           <span> Only show products in stock</span>
         </label>
