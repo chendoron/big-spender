@@ -14,7 +14,7 @@ export default class ProductRow extends React.Component {
 
   render() {
     return (
-      <div className={Styles.tableProductRow }>
+      <div className={Styles.tableProductRow}>
         <div className={`${Styles.tableProductColumn} ${this.product.stocked ? '' : Styles.outOfStock}`}>{this.product.name}</div>
         <div className={Styles.tableProductColumn}>{this.product.price}</div>
       </div>
