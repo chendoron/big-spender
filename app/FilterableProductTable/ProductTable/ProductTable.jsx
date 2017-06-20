@@ -1,13 +1,14 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
 import Styles from './ProductTable.scss';
-import ProductCategoryRow from './components/ProductCategoryRow/ProductCategoryRow.jsx';
-import ProductRow from './components/ProductRow/ProductRow.jsx';
+import ProductCategoryRow from './ProductCategoryRow/ProductCategoryRow.jsx';
+import ProductRow from './ProductRow/ProductRow.jsx';
 
-export default class ProductTable extends React.Component {
+class ProductTable extends React.Component {
   constructor(props) {
     super(props);
-    this.tableRows = this.createRows(this.props);
+    this.tableRows = this.createRows();
   }
 
   static get propTypes() {
@@ -18,14 +19,16 @@ export default class ProductTable extends React.Component {
     };
   }
 
-  createRows(props) {
+  createRows(props = this.props) {
     let lastCategory;
     const tableRows = [];
     props.products
       .sort((a, b) => a.category.localeCompare(b.category))
       .forEach((product) => {
         // Filter our by text
-        if (product.name.indexOf(props.filterText) === -1) return;
+        if (product.name
+              .toLowerCase()
+              .indexOf(props.filterText) === -1) return;
 
         // Filter our by stocked
         if (props.isStockOnly && !product.stocked) return;
@@ -67,3 +70,9 @@ export default class ProductTable extends React.Component {
     );
   }
 }
+
+export default connect(state => ({
+  products: state.products,
+  filterText: state.filterText,
+  isStockOnly: state.isStockOnly,
+}))(ProductTable);

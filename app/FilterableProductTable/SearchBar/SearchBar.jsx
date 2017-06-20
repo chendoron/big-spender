@@ -1,16 +1,16 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
+import * as actions from '../../actions';
 import Styles from './SearchBar.scss';
-import { filterTextChange, stockOnlyChange } from '../../../../actions/action';
 
 class SearchBar extends React.Component {
   static get propTypes() {
     return {
-      filterText: PropTypes.string,
-      isStockOnly: PropTypes.bool,
-      filterTextChange: PropTypes.func,
-      stockOnlyChange: PropTypes.func,
+      filterText: PropTypes.string.isRequired,
+      isStockOnly: PropTypes.bool.isRequired,
+      filterTextChange: PropTypes.func.isRequired,
+      stockOnlyChange: PropTypes.func.isRequired,
     };
   }
 
@@ -40,4 +40,4 @@ class SearchBar extends React.Component {
 export default connect(state => ({
   filterText: state.filterText,
   isStockOnly: state.isStockOnly,
-}), { filterTextChange, stockOnlyChange })(SearchBar);
+}), actions)(SearchBar);
