@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
-import reducer from './reducers/reducer.jsx';
+import reducer from './reducers';
 import FilterableProductTable from './FilterableProductTable/FilterableProductTable.jsx';
 
 const user = {
