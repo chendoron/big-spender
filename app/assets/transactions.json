@@ -1,0 +1,4005 @@
+[{
+   "date": "2017-01-01T00:00:00.000Z",
+   "amount": 550,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "10bis",
+   "payeePayer": "Wibbitz"
+}, {
+   "date": "2017-01-02T00:00:00.000Z",
+   "amount": -115,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-02T00:00:00.000Z",
+   "amount": -78,
+   "category": "Entertainment",
+   "subCategory": "Movies",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רב חן"
+}, {
+   "date": "2017-01-04T00:00:00.000Z",
+   "amount": -50,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "דן"
+}, {
+   "date": "2017-01-04T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "אבו אהדם"
+}, {
+   "date": "2017-01-05T00:00:00.000Z",
+   "amount": 16930,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Electronic Transfer",
+   "payeePayer": "Wibbitz"
+}, {
+   "date": "2017-01-05T00:00:00.000Z",
+   "amount": -40,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חניון"
+}, {
+   "date": "2017-01-05T00:00:00.000Z",
+   "amount": 20,
+   "category": "Income",
+   "subCategory": "Personal",
+   "paymentMethod": "Cash",
+   "payeePayer": "פרידמן"
+}, {
+   "date": "2017-01-05T00:00:00.000Z",
+   "amount": -41,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -63,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קרנף"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -30,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -80,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מזג"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -32,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": 10,
+   "category": "Income",
+   "subCategory": "Personal",
+   "paymentMethod": "Cash",
+   "payeePayer": "מירי"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -15,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-01-06T00:00:00.000Z",
+   "amount": -94,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-01-07T00:00:00.000Z",
+   "amount": -90,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -68,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -400,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מסיבת רווקים"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -23,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -69,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "רוני מוטי"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -52,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Seamless"
+}, {
+   "date": "2017-01-08T00:00:00.000Z",
+   "amount": -33,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "צינה"
+}, {
+   "date": "2017-01-09T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "קפה נואר"
+}, {
+   "date": "2017-01-09T00:00:00.000Z",
+   "amount": -35,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה אייל"
+}, {
+   "date": "2017-01-10T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Cash",
+   "payeePayer": "קפה"
+}, {
+   "date": "2017-01-10T00:00:00.000Z",
+   "amount": -100,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אלון"
+}, {
+   "date": "2017-01-10T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-10T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה דומינוס"
+}, {
+   "date": "2017-01-12T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-01-12T00:00:00.000Z",
+   "amount": -70,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Cash",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-01-12T00:00:00.000Z",
+   "amount": -70,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-01-12T00:00:00.000Z",
+   "amount": 15,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-01-12T00:00:00.000Z",
+   "amount": -20,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": -64,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": -61,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": -64,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מתוקות"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בורקס גלילות"
+}, {
+   "date": "2017-01-13T00:00:00.000Z",
+   "amount": 25,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Cash",
+   "payeePayer": "טל גרינבלט"
+}, {
+   "date": "2017-01-14T00:00:00.000Z",
+   "amount": -34,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה אייל"
+}, {
+   "date": "2017-01-15T00:00:00.000Z",
+   "amount": -130,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-01-15T00:00:00.000Z",
+   "amount": -5381,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-01-15T00:00:00.000Z",
+   "amount": -42,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "פליישמן"
+}, {
+   "date": "2017-01-15T00:00:00.000Z",
+   "amount": 258,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "10bis",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-01-15T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-01-16T00:00:00.000Z",
+   "amount": -47,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-01-16T00:00:00.000Z",
+   "amount": -150,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-01-16T00:00:00.000Z",
+   "amount": -56,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-01-17T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ויטרינה"
+}, {
+   "date": "2017-01-17T00:00:00.000Z",
+   "amount": -63,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-17T00:00:00.000Z",
+   "amount": -25,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-01-18T00:00:00.000Z",
+   "amount": -100,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "דן"
+}, {
+   "date": "2017-01-18T00:00:00.000Z",
+   "amount": -88,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "TYO"
+}, {
+   "date": "2017-01-18T00:00:00.000Z",
+   "amount": -10,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "TYO"
+}, {
+   "date": "2017-01-18T00:00:00.000Z",
+   "amount": -175,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חנות אלכוהול"
+}, {
+   "date": "2017-01-18T00:00:00.000Z",
+   "amount": -62,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקס אנד קו"
+}, {
+   "date": "2017-01-19T00:00:00.000Z",
+   "amount": -50,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Cash",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-01-19T00:00:00.000Z",
+   "amount": -23,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -130,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -9,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "AM:PM"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -15,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "אובן קובן"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -45,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אייבורי"
+}, {
+   "date": "2017-01-20T00:00:00.000Z",
+   "amount": -150,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אלון"
+}, {
+   "date": "2017-01-21T00:00:00.000Z",
+   "amount": -335,
+   "category": "Entertainment",
+   "subCategory": "Video Games",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Origin"
+}, {
+   "date": "2017-01-21T00:00:00.000Z",
+   "amount": -18,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-01-22T00:00:00.000Z",
+   "amount": -65,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טאקריה"
+}, {
+   "date": "2017-01-22T00:00:00.000Z",
+   "amount": -69,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-01-23T00:00:00.000Z",
+   "amount": -50,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Master Fish"
+}, {
+   "date": "2017-01-23T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": -21,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": -173,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": -54,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": -69,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "ג'ירף"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": 1000,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "10bis",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-01-24T00:00:00.000Z",
+   "amount": 20,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ג'ימי"
+}, {
+   "date": "2017-01-25T00:00:00.000Z",
+   "amount": -47,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-01-26T00:00:00.000Z",
+   "amount": -85,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-01-26T00:00:00.000Z",
+   "amount": -820,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "עמית השכן"
+}, {
+   "date": "2017-01-26T00:00:00.000Z",
+   "amount": -77,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-01-27T00:00:00.000Z",
+   "amount": -135,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-01-27T00:00:00.000Z",
+   "amount": -52,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-01-27T00:00:00.000Z",
+   "amount": -129,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Bread Story"
+}, {
+   "date": "2017-01-27T00:00:00.000Z",
+   "amount": -120,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ברבוניה"
+}, {
+   "date": "2017-01-27T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ביגי זי"
+}, {
+   "date": "2017-01-28T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-01-28T00:00:00.000Z",
+   "amount": -110,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Speakeasy"
+}, {
+   "date": "2017-01-29T00:00:00.000Z",
+   "amount": -155,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סימטא"
+}, {
+   "date": "2017-01-29T00:00:00.000Z",
+   "amount": -63,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "צ'יריפום"
+}, {
+   "date": "2017-01-29T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-30T00:00:00.000Z",
+   "amount": -95,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שישי במאי"
+}, {
+   "date": "2017-01-30T00:00:00.000Z",
+   "amount": -67,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "ג'ירף"
+}, {
+   "date": "2017-01-31T00:00:00.000Z",
+   "amount": -33,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-01-31T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "ביצ'יקלטה"
+}, {
+   "date": "2017-02-01T00:00:00.000Z",
+   "amount": -65,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "קפה נואר"
+}, {
+   "date": "2017-02-01T00:00:00.000Z",
+   "amount": 9702,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-02-01T00:00:00.000Z",
+   "amount": -30,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-01T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -171,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "PayPal",
+   "payeePayer": "zer4u"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ויטרינה"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -25,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -400,
+   "category": "Health Care",
+   "subCategory": "Nutrition",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Amino Shop"
+}, {
+   "date": "2017-02-02T00:00:00.000Z",
+   "amount": -59,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -80,
+   "category": "Entertainment",
+   "subCategory": "Video Games",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Blizzard"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -19,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שמונה"
+}, {
+   "date": "2017-02-03T00:00:00.000Z",
+   "amount": -71,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-02-04T00:00:00.000Z",
+   "amount": -95,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "צינה"
+}, {
+   "date": "2017-02-04T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "PayPal",
+   "payeePayer": "פיצה דומינוס"
+}, {
+   "date": "2017-02-04T00:00:00.000Z",
+   "amount": -54,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-02-05T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-02-05T00:00:00.000Z",
+   "amount": -63,
+   "category": "Health Care",
+   "subCategory": "Prescription",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "כללית"
+}, {
+   "date": "2017-02-05T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-02-05T00:00:00.000Z",
+   "amount": -65,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ויטרינה"
+}, {
+   "date": "2017-02-06T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עדן טבע מרקט"
+}, {
+   "date": "2017-02-06T00:00:00.000Z",
+   "amount": -20,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "עידן זאק מלכיאור"
+}, {
+   "date": "2017-02-06T00:00:00.000Z",
+   "amount": -53,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-02-07T00:00:00.000Z",
+   "amount": -77,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "פונדק השובבים"
+}, {
+   "date": "2017-02-07T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-02-08T00:00:00.000Z",
+   "amount": -579,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-02-08T00:00:00.000Z",
+   "amount": 16427,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Electronic Transfer",
+   "payeePayer": "Wibbitz"
+}, {
+   "date": "2017-02-08T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-02-08T00:00:00.000Z",
+   "amount": -67,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-02-09T00:00:00.000Z",
+   "amount": -87,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "רוני מוטי"
+}, {
+   "date": "2017-02-09T00:00:00.000Z",
+   "amount": -24,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-10T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-02-10T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-02-10T00:00:00.000Z",
+   "amount": -112,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ברבוניה"
+}, {
+   "date": "2017-02-11T00:00:00.000Z",
+   "amount": -81,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-02-11T00:00:00.000Z",
+   "amount": -30,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ארל'ה"
+}, {
+   "date": "2017-02-11T00:00:00.000Z",
+   "amount": -161,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Blood Manor"
+}, {
+   "date": "2017-02-11T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סימטא"
+}, {
+   "date": "2017-02-11T00:00:00.000Z",
+   "amount": -50,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "אבו חסן"
+}, {
+   "date": "2017-02-12T00:00:00.000Z",
+   "amount": -101,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-02-12T00:00:00.000Z",
+   "amount": -35,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "לה בר"
+}, {
+   "date": "2017-02-12T00:00:00.000Z",
+   "amount": -61,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "סאלוף ובניו"
+}, {
+   "date": "2017-02-12T00:00:00.000Z",
+   "amount": -5360,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-02-13T00:00:00.000Z",
+   "amount": -53,
+   "category": "Personal",
+   "subCategory": "Clothing",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "המכבסה"
+}, {
+   "date": "2017-02-13T00:00:00.000Z",
+   "amount": -90,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-02-14T00:00:00.000Z",
+   "amount": -46,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-02-14T00:00:00.000Z",
+   "amount": -35,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "בר בקר"
+}, {
+   "date": "2017-02-14T00:00:00.000Z",
+   "amount": -39,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-02-15T00:00:00.000Z",
+   "amount": -75,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-02-15T00:00:00.000Z",
+   "amount": -279,
+   "category": "Household",
+   "subCategory": "Pet Food",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ג'ונגל"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -99,
+   "category": "Utilities",
+   "subCategory": "Water",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מי אביבים"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -957,
+   "category": "Utilities",
+   "subCategory": "Electric",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חברת החשמל"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -61,
+   "category": "Utilities",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אמישראגז"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -100,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "דן"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -650,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "ליאור פלוטקין"
+}, {
+   "date": "2017-02-16T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -66,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Le Moulin"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -19,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -141,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ברבוניה"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -40,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -69,
+   "category": "Personal",
+   "subCategory": "Clothing",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "American Eagle"
+}, {
+   "date": "2017-02-17T00:00:00.000Z",
+   "amount": -18,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-02-18T00:00:00.000Z",
+   "amount": -200,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-02-19T00:00:00.000Z",
+   "amount": -53,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-02-19T00:00:00.000Z",
+   "amount": -47,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-02-20T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-02-20T00:00:00.000Z",
+   "amount": -172,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-02-22T00:00:00.000Z",
+   "amount": -82,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-02-22T00:00:00.000Z",
+   "amount": -61,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "ג'ירף"
+}, {
+   "date": "2017-02-23T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקדונלדס"
+}, {
+   "date": "2017-02-23T00:00:00.000Z",
+   "amount": -80,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-02-24T00:00:00.000Z",
+   "amount": -130,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-02-24T00:00:00.000Z",
+   "amount": -120,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-02-24T00:00:00.000Z",
+   "amount": 1000,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "10bis",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-02-24T00:00:00.000Z",
+   "amount": -38,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-02-25T00:00:00.000Z",
+   "amount": -75,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "אובן קובן"
+}, {
+   "date": "2017-02-26T00:00:00.000Z",
+   "amount": -69,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "פונדק השובבים"
+}, {
+   "date": "2017-02-26T00:00:00.000Z",
+   "amount": -25,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-02-27T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טיב טעם"
+}, {
+   "date": "2017-02-27T00:00:00.000Z",
+   "amount": -75,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "קפה נואר"
+}, {
+   "date": "2017-02-28T00:00:00.000Z",
+   "amount": -95,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חניון"
+}, {
+   "date": "2017-03-01T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ויטרינה"
+}, {
+   "date": "2017-03-01T00:00:00.000Z",
+   "amount": -212,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ניו פארם"
+}, {
+   "date": "2017-03-01T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-03-01T00:00:00.000Z",
+   "amount": -44,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-02T00:00:00.000Z",
+   "amount": -9,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "AM:PM"
+}, {
+   "date": "2017-03-02T00:00:00.000Z",
+   "amount": 17494,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-03-02T00:00:00.000Z",
+   "amount": -70,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אמריקה בורגר"
+}, {
+   "date": "2017-03-02T00:00:00.000Z",
+   "amount": -350,
+   "category": "Personal",
+   "subCategory": "Gift",
+   "paymentMethod": "Cash",
+   "payeePayer": "אבישי הירש"
+}, {
+   "date": "2017-03-03T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-03T00:00:00.000Z",
+   "amount": -150,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-03-03T00:00:00.000Z",
+   "amount": -115,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שמונה"
+}, {
+   "date": "2017-03-03T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קפה לנדוור"
+}, {
+   "date": "2017-03-04T00:00:00.000Z",
+   "amount": -40,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מייקס פלייס"
+}, {
+   "date": "2017-03-04T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-04T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מתוקות"
+}, {
+   "date": "2017-03-04T00:00:00.000Z",
+   "amount": -40,
+   "category": "Entertainment",
+   "subCategory": "Movies",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רב חן"
+}, {
+   "date": "2017-03-05T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טאקריה"
+}, {
+   "date": "2017-03-05T00:00:00.000Z",
+   "amount": -41,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-06T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Paleo"
+}, {
+   "date": "2017-03-06T00:00:00.000Z",
+   "amount": -440,
+   "category": "Personal",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Crossfit Namal"
+}, {
+   "date": "2017-03-07T00:00:00.000Z",
+   "amount": -132,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-07T00:00:00.000Z",
+   "amount": -88,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "משחקי חשיבה"
+}, {
+   "date": "2017-03-07T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "M25"
+}, {
+   "date": "2017-03-08T00:00:00.000Z",
+   "amount": -2200,
+   "category": "Home Office",
+   "subCategory": "Cell Phone",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Amazon"
+}, {
+   "date": "2017-03-08T00:00:00.000Z",
+   "amount": -56,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "מקדונלדס"
+}, {
+   "date": "2017-03-08T00:00:00.000Z",
+   "amount": -213,
+   "category": "Travel",
+   "subCategory": "Airplane",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אל על"
+}, {
+   "date": "2017-03-09T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אמריקה בורגר"
+}, {
+   "date": "2017-03-09T00:00:00.000Z",
+   "amount": -50,
+   "category": "Transportation",
+   "subCategory": "Car",
+   "paymentMethod": "Cash",
+   "payeePayer": "פנצ'ר מאכר"
+}, {
+   "date": "2017-03-09T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-03-09T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "סביח פרישמן"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -37,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Burger Factory"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -54,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -54,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -20,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סימטא"
+}, {
+   "date": "2017-03-10T00:00:00.000Z",
+   "amount": -24,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-11T00:00:00.000Z",
+   "amount": -158,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-11T00:00:00.000Z",
+   "amount": -149,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-03-11T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-12T00:00:00.000Z",
+   "amount": -43,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-12T00:00:00.000Z",
+   "amount": -13,
+   "category": "Transportation",
+   "subCategory": "Train",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רכבת ישראל"
+}, {
+   "date": "2017-03-12T00:00:00.000Z",
+   "amount": -80,
+   "category": "Personal",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Duty Free"
+}, {
+   "date": "2017-03-12T00:00:00.000Z",
+   "amount": -5360,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-03-12T00:00:00.000Z",
+   "amount": -1182,
+   "category": "Travel",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Amsterdam"
+}, {
+   "date": "2017-03-15T00:00:00.000Z",
+   "amount": -13,
+   "category": "Transportation",
+   "subCategory": "Train",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רכבת ישראל"
+}, {
+   "date": "2017-03-16T00:00:00.000Z",
+   "amount": -89,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Bread Story"
+}, {
+   "date": "2017-03-16T00:00:00.000Z",
+   "amount": -33,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-16T00:00:00.000Z",
+   "amount": -195,
+   "category": "Entertainment",
+   "subCategory": "Video Games",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Origin"
+}, {
+   "date": "2017-03-16T00:00:00.000Z",
+   "amount": -35,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בורקס גלילות"
+}, {
+   "date": "2017-03-17T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-03-17T00:00:00.000Z",
+   "amount": -25,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-17T00:00:00.000Z",
+   "amount": -121,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ביירן"
+}, {
+   "date": "2017-03-17T00:00:00.000Z",
+   "amount": -45,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-18T00:00:00.000Z",
+   "amount": -40,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-18T00:00:00.000Z",
+   "amount": -50,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Check",
+   "payeePayer": "רב קו"
+}, {
+   "date": "2017-03-19T00:00:00.000Z",
+   "amount": -85,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוזס"
+}, {
+   "date": "2017-03-19T00:00:00.000Z",
+   "amount": -10,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שופרסל"
+}, {
+   "date": "2017-03-19T00:00:00.000Z",
+   "amount": -117,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-20T00:00:00.000Z",
+   "amount": -144,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -7,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Cash",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -140,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "M25"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -50,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מיצולוגיה"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -480,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "עמית השכן"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -160,
+   "category": "Household",
+   "subCategory": "Veterinarian",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ד\"ר רמי תמיר"
+}, {
+   "date": "2017-03-21T00:00:00.000Z",
+   "amount": -42,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סביח פרישמן"
+}, {
+   "date": "2017-03-22T00:00:00.000Z",
+   "amount": -44,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-22T00:00:00.000Z",
+   "amount": -40,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-03-22T00:00:00.000Z",
+   "amount": -97,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-22T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "המזנון"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -35,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קפה בימה"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -400,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -21,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -6,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-23T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -210,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -52,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -240,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Panica"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -25,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -328,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פז"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Cofix"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -840,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-03-24T00:00:00.000Z",
+   "amount": -430,
+   "category": "Entertainment",
+   "subCategory": "Concert",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "זאפה"
+}, {
+   "date": "2017-03-25T00:00:00.000Z",
+   "amount": -26,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-25T00:00:00.000Z",
+   "amount": -36,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "אבו חסן"
+}, {
+   "date": "2017-03-25T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקס אנד קו"
+}, {
+   "date": "2017-03-26T00:00:00.000Z",
+   "amount": -246,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Denim"
+}, {
+   "date": "2017-03-26T00:00:00.000Z",
+   "amount": -53,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-03-26T00:00:00.000Z",
+   "amount": -170,
+   "category": "Health Care",
+   "subCategory": "Prescription",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-03-26T00:00:00.000Z",
+   "amount": -23,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טיב טעם"
+}, {
+   "date": "2017-03-27T00:00:00.000Z",
+   "amount": -10,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Cofix"
+}, {
+   "date": "2017-03-27T00:00:00.000Z",
+   "amount": -245,
+   "category": "Family",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רשות האוכלוסין והההגירה"
+}, {
+   "date": "2017-03-27T00:00:00.000Z",
+   "amount": -115,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-27T00:00:00.000Z",
+   "amount": -90,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "הקוסם"
+}, {
+   "date": "2017-03-27T00:00:00.000Z",
+   "amount": -90,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אריאל בק"
+}, {
+   "date": "2017-03-28T00:00:00.000Z",
+   "amount": -130,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "אובן קובן"
+}, {
+   "date": "2017-03-28T00:00:00.000Z",
+   "amount": -32,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מפגש מנדלה"
+}, {
+   "date": "2017-03-28T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מיצי בוגרשוב"
+}, {
+   "date": "2017-03-28T00:00:00.000Z",
+   "amount": -120,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-29T00:00:00.000Z",
+   "amount": -132,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קפה מצדה"
+}, {
+   "date": "2017-03-30T00:00:00.000Z",
+   "amount": -38,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-03-30T00:00:00.000Z",
+   "amount": -46,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-03-30T00:00:00.000Z",
+   "amount": -27,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-03-30T00:00:00.000Z",
+   "amount": -30,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "היכל שלמה"
+}, {
+   "date": "2017-03-31T00:00:00.000Z",
+   "amount": -220,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-04-01T00:00:00.000Z",
+   "amount": -200,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ביגי זי"
+}, {
+   "date": "2017-04-01T00:00:00.000Z",
+   "amount": -60,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Pana Po'o"
+}, {
+   "date": "2017-04-01T00:00:00.000Z",
+   "amount": -32,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-01T00:00:00.000Z",
+   "amount": -100,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-04-01T00:00:00.000Z",
+   "amount": 21445,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -21,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -120,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Bread Story"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -150,
+   "category": "Household",
+   "subCategory": "Pet Food",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ג'ונגל"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -440,
+   "category": "Personal",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Crossfit Namal"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -22,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-02T00:00:00.000Z",
+   "amount": -32,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -120,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה דומינוס"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -24,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -10,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -100,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "רב קו"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -162,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-03T00:00:00.000Z",
+   "amount": -37,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-04T00:00:00.000Z",
+   "amount": -150,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סימטא"
+}, {
+   "date": "2017-04-04T00:00:00.000Z",
+   "amount": -70,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שוק הכרמל"
+}, {
+   "date": "2017-04-04T00:00:00.000Z",
+   "amount": -33,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Cash",
+   "payeePayer": "שוק הכרמל"
+}, {
+   "date": "2017-04-04T00:00:00.000Z",
+   "amount": -150,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "Karlyn Baranowski"
+}, {
+   "date": "2017-04-05T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חומוס בטעמים"
+}, {
+   "date": "2017-04-06T00:00:00.000Z",
+   "amount": -7,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-07T00:00:00.000Z",
+   "amount": -180,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-04-07T00:00:00.000Z",
+   "amount": -80,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-04-07T00:00:00.000Z",
+   "amount": -200,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Centro Café"
+}, {
+   "date": "2017-04-07T00:00:00.000Z",
+   "amount": -51,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-08T00:00:00.000Z",
+   "amount": -41,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-08T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מתוקות"
+}, {
+   "date": "2017-04-08T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אבו חסן"
+}, {
+   "date": "2017-04-08T00:00:00.000Z",
+   "amount": -240,
+   "category": "Entertainment",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Paradox"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -27,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בורקס גלילות"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -150,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -124,
+   "category": "Uncategorized",
+   "subCategory": "",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עכו העתיקה"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "עכו העתיקה"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -130,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-04-09T00:00:00.000Z",
+   "amount": -66,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שישי במאי"
+}, {
+   "date": "2017-04-10T00:00:00.000Z",
+   "amount": -37,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-10T00:00:00.000Z",
+   "amount": -95,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": ""
+}, {
+   "date": "2017-04-11T00:00:00.000Z",
+   "amount": -46,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-11T00:00:00.000Z",
+   "amount": -67,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-11T00:00:00.000Z",
+   "amount": -84,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה אקספרס"
+}, {
+   "date": "2017-04-12T00:00:00.000Z",
+   "amount": -5360,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-04-12T00:00:00.000Z",
+   "amount": -22,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-12T00:00:00.000Z",
+   "amount": -170,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-04-12T00:00:00.000Z",
+   "amount": -55,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקדונלדס"
+}, {
+   "date": "2017-04-13T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-13T00:00:00.000Z",
+   "amount": -33,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-13T00:00:00.000Z",
+   "amount": -40,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-13T00:00:00.000Z",
+   "amount": -85,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אנגוס"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -40,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "Beer Box"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -66,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סלון ברלין"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -10,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Cash",
+   "payeePayer": "מלביה"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -107,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -11,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טיב טעם"
+}, {
+   "date": "2017-04-14T00:00:00.000Z",
+   "amount": -119,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-15T00:00:00.000Z",
+   "amount": -200,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פוסיקט"
+}, {
+   "date": "2017-04-15T00:00:00.000Z",
+   "amount": -25,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "פוסיקט"
+}, {
+   "date": "2017-04-15T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מתוקות"
+}, {
+   "date": "2017-04-15T00:00:00.000Z",
+   "amount": -338,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פוסיקט"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -396,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "לה שוק"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -16,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ג'לאטו רוטשילד"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -74,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "צפון אברקסס"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -25,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Cash",
+   "payeePayer": "שוק רוטשילד אלנבי"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -300,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "כיבוד"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -25,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Café Café"
+}, {
+   "date": "2017-04-16T00:00:00.000Z",
+   "amount": -112,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-04-17T00:00:00.000Z",
+   "amount": -62,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-17T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-18T00:00:00.000Z",
+   "amount": -41,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-18T00:00:00.000Z",
+   "amount": -135,
+   "category": "Household",
+   "subCategory": "Pet Food",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ג'ונגל"
+}, {
+   "date": "2017-04-18T00:00:00.000Z",
+   "amount": -25,
+   "category": "Household",
+   "subCategory": "Home Maintenance",
+   "paymentMethod": "Cash",
+   "payeePayer": "טמבוריה"
+}, {
+   "date": "2017-04-18T00:00:00.000Z",
+   "amount": -41,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אייל בפסאג'"
+}, {
+   "date": "2017-04-19T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-20T00:00:00.000Z",
+   "amount": -21,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-20T00:00:00.000Z",
+   "amount": -220,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "כיבוד"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Cash",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -128,
+   "category": "Personal",
+   "subCategory": "Clothing",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Boarder Line"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -110,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -96,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-04-21T00:00:00.000Z",
+   "amount": -8,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Cash",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-22T00:00:00.000Z",
+   "amount": -120,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-04-22T00:00:00.000Z",
+   "amount": -31,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פרנק"
+}, {
+   "date": "2017-04-22T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-04-22T00:00:00.000Z",
+   "amount": -55,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -250,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עיריית תל אביב"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -38,
+   "category": "Utilities",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אמישראגז"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -149,
+   "category": "Utilities",
+   "subCategory": "Water",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מי אביבים"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -397,
+   "category": "Tax",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עיריית תל אביב"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -54,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-04-23T00:00:00.000Z",
+   "amount": -259,
+   "category": "Personal",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Trek"
+}, {
+   "date": "2017-04-24T00:00:00.000Z",
+   "amount": -90,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-04-25T00:00:00.000Z",
+   "amount": -35,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "בירה גארדן"
+}, {
+   "date": "2017-04-25T00:00:00.000Z",
+   "amount": -41,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אייל בפסאג'"
+}, {
+   "date": "2017-04-25T00:00:00.000Z",
+   "amount": -81,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-04-26T00:00:00.000Z",
+   "amount": -84,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-04-26T00:00:00.000Z",
+   "amount": -66,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-04-26T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-04-27T00:00:00.000Z",
+   "amount": -64,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-04-27T00:00:00.000Z",
+   "amount": -92,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "10bis",
+   "payeePayer": "ריבר"
+}, {
+   "date": "2017-04-27T00:00:00.000Z",
+   "amount": -24,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-27T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-04-28T00:00:00.000Z",
+   "amount": -70,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Java"
+}, {
+   "date": "2017-04-28T00:00:00.000Z",
+   "amount": -200,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-04-28T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-28T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "PayPal",
+   "payeePayer": "פיצה דומינוס"
+}, {
+   "date": "2017-04-28T00:00:00.000Z",
+   "amount": -50,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "לה בר"
+}, {
+   "date": "2017-04-29T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-04-29T00:00:00.000Z",
+   "amount": -63,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקס אנד קו"
+}, {
+   "date": "2017-04-29T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-04-29T00:00:00.000Z",
+   "amount": -25,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-30T00:00:00.000Z",
+   "amount": -27,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-04-30T00:00:00.000Z",
+   "amount": -63,
+   "category": "Health Care",
+   "subCategory": "Medical",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קופת חולים"
+}, {
+   "date": "2017-04-30T00:00:00.000Z",
+   "amount": -37,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Cash",
+   "payeePayer": "עדו גרגרים"
+}, {
+   "date": "2017-04-30T00:00:00.000Z",
+   "amount": -200,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-05-01T00:00:00.000Z",
+   "amount": -440,
+   "category": "Personal",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Crossfit Namal"
+}, {
+   "date": "2017-05-01T00:00:00.000Z",
+   "amount": -74,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-01T00:00:00.000Z",
+   "amount": -37,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "יאשקה"
+}, {
+   "date": "2017-05-01T00:00:00.000Z",
+   "amount": -60,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "גובה 19"
+}, {
+   "date": "2017-05-02T00:00:00.000Z",
+   "amount": -37,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "לה לזניה"
+}, {
+   "date": "2017-05-02T00:00:00.000Z",
+   "amount": -400,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "כיבוד"
+}, {
+   "date": "2017-05-02T00:00:00.000Z",
+   "amount": -50,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "AM:PM"
+}, {
+   "date": "2017-05-03T00:00:00.000Z",
+   "amount": 13657,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Apester"
+}, {
+   "date": "2017-05-03T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אייל בפסאג'"
+}, {
+   "date": "2017-05-03T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-03T00:00:00.000Z",
+   "amount": -20,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-03T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-05-04T00:00:00.000Z",
+   "amount": -24,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-04T00:00:00.000Z",
+   "amount": -26,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שניצל שונצינו"
+}, {
+   "date": "2017-05-04T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-05T00:00:00.000Z",
+   "amount": -200,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מזג"
+}, {
+   "date": "2017-05-05T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מתחת לעץ"
+}, {
+   "date": "2017-05-05T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-05T00:00:00.000Z",
+   "amount": -30,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-05T00:00:00.000Z",
+   "amount": -90,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פרוזדור"
+}, {
+   "date": "2017-05-06T00:00:00.000Z",
+   "amount": 629,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "אבי רבוח"
+}, {
+   "date": "2017-05-06T00:00:00.000Z",
+   "amount": -30,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Cash",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-05-06T00:00:00.000Z",
+   "amount": -170,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "איסמי סלמה"
+}, {
+   "date": "2017-05-06T00:00:00.000Z",
+   "amount": 21445,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Fundbox"
+}, {
+   "date": "2017-05-06T00:00:00.000Z",
+   "amount": -57,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מקדונלדס"
+}, {
+   "date": "2017-05-07T00:00:00.000Z",
+   "amount": -59,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-07T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-07T00:00:00.000Z",
+   "amount": -65,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-05-07T00:00:00.000Z",
+   "amount": -68,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בנדורה"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -20,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עדן טבע מרקט"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -16,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -43,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-08T00:00:00.000Z",
+   "amount": -18,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-05-09T00:00:00.000Z",
+   "amount": -100,
+   "category": "Tax",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עיריית תל אביב"
+}, {
+   "date": "2017-05-10T00:00:00.000Z",
+   "amount": -28,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצה פינו"
+}, {
+   "date": "2017-05-10T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-10T00:00:00.000Z",
+   "amount": -115,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-05-10T00:00:00.000Z",
+   "amount": -80,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בירה גארדן"
+}, {
+   "date": "2017-05-11T00:00:00.000Z",
+   "amount": -70,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-05-11T00:00:00.000Z",
+   "amount": -35,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-11T00:00:00.000Z",
+   "amount": -24,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סביח פרישמן"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -150,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טנג'יר"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -54,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סוסו אנד סונס"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -40,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -5360,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -79,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ביירן"
+}, {
+   "date": "2017-05-12T00:00:00.000Z",
+   "amount": -40,
+   "category": "Entertainment",
+   "subCategory": "Movies",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רב חן"
+}, {
+   "date": "2017-05-13T00:00:00.000Z",
+   "amount": -15,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קפה מצדה"
+}, {
+   "date": "2017-05-13T00:00:00.000Z",
+   "amount": -90,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "משאוואשה"
+}, {
+   "date": "2017-05-13T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-14T00:00:00.000Z",
+   "amount": -42,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בנדורה"
+}, {
+   "date": "2017-05-14T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אגאדיר"
+}, {
+   "date": "2017-05-15T00:00:00.000Z",
+   "amount": -29,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-15T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-16T00:00:00.000Z",
+   "amount": -49,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בנדורה"
+}, {
+   "date": "2017-05-16T00:00:00.000Z",
+   "amount": -80,
+   "category": "Entertainment",
+   "subCategory": "Movies",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רב חן"
+}, {
+   "date": "2017-05-17T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-05-17T00:00:00.000Z",
+   "amount": -41,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חנות עישון"
+}, {
+   "date": "2017-05-18T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-18T00:00:00.000Z",
+   "amount": -100,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "דן"
+}, {
+   "date": "2017-05-18T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אנגוס"
+}, {
+   "date": "2017-05-18T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Cash",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-19T00:00:00.000Z",
+   "amount": -100,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-05-19T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-05-19T00:00:00.000Z",
+   "amount": -77,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "אובן קובן"
+}, {
+   "date": "2017-05-20T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-20T00:00:00.000Z",
+   "amount": -69,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-05-20T00:00:00.000Z",
+   "amount": -51,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-20T00:00:00.000Z",
+   "amount": -60,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-05-21T00:00:00.000Z",
+   "amount": -78,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-21T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עדן טבע מרקט"
+}, {
+   "date": "2017-05-23T00:00:00.000Z",
+   "amount": -105,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בירה גארדן"
+}, {
+   "date": "2017-05-23T00:00:00.000Z",
+   "amount": -61,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-05-24T00:00:00.000Z",
+   "amount": -550,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Cash",
+   "payeePayer": "כיבוד"
+}, {
+   "date": "2017-05-24T00:00:00.000Z",
+   "amount": -56,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-05-25T00:00:00.000Z",
+   "amount": -14,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "a23"
+}, {
+   "date": "2017-05-25T00:00:00.000Z",
+   "amount": -39,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בנדורה"
+}, {
+   "date": "2017-05-25T00:00:00.000Z",
+   "amount": -31,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -200,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מזג"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -20,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Cash",
+   "payeePayer": "חניון"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -62,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -22,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סביח פרישמן"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -25,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מיצולוגיה"
+}, {
+   "date": "2017-05-26T00:00:00.000Z",
+   "amount": -150,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-05-27T00:00:00.000Z",
+   "amount": -80,
+   "category": "Entertainment",
+   "subCategory": "Movies",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רב חן"
+}, {
+   "date": "2017-05-27T00:00:00.000Z",
+   "amount": -74,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-05-27T00:00:00.000Z",
+   "amount": -85,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פרוזדור"
+}, {
+   "date": "2017-05-28T00:00:00.000Z",
+   "amount": -54,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-05-28T00:00:00.000Z",
+   "amount": -70,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טיב טעם"
+}, {
+   "date": "2017-05-28T00:00:00.000Z",
+   "amount": -52,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אייל בפסאג'"
+}, {
+   "date": "2017-05-28T00:00:00.000Z",
+   "amount": -60,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מוריס מוריסון"
+}, {
+   "date": "2017-05-28T00:00:00.000Z",
+   "amount": -76,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "זה סושי"
+}, {
+   "date": "2017-05-29T00:00:00.000Z",
+   "amount": -95,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "שישי במאי"
+}, {
+   "date": "2017-05-30T00:00:00.000Z",
+   "amount": -217,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "דור אלון"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -64,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -15,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -43,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -55,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "המסעדה"
+}, {
+   "date": "2017-05-31T00:00:00.000Z",
+   "amount": -26,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-06-01T00:00:00.000Z",
+   "amount": -17,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-01T00:00:00.000Z",
+   "amount": -82,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-06-01T00:00:00.000Z",
+   "amount": -68,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "וולפנייטס"
+}, {
+   "date": "2017-06-01T00:00:00.000Z",
+   "amount": -26,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-06-01T00:00:00.000Z",
+   "amount": -91,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "צינה"
+}, {
+   "date": "2017-06-02T00:00:00.000Z",
+   "amount": -43,
+   "category": "Health Care",
+   "subCategory": "Prescription",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "כללית"
+}, {
+   "date": "2017-06-02T00:00:00.000Z",
+   "amount": -142,
+   "category": "Household",
+   "subCategory": "Veterinarian",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ד\"ר רמי תמיר"
+}, {
+   "date": "2017-06-02T00:00:00.000Z",
+   "amount": -66,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-02T00:00:00.000Z",
+   "amount": -269,
+   "category": "Household",
+   "subCategory": "Pet Food",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אקווריום"
+}, {
+   "date": "2017-06-03T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-06-03T00:00:00.000Z",
+   "amount": -132,
+   "category": "Utilities",
+   "subCategory": "Water",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מי אביבים"
+}, {
+   "date": "2017-06-03T00:00:00.000Z",
+   "amount": -401,
+   "category": "Tax",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עיריית תל אביב"
+}, {
+   "date": "2017-06-03T00:00:00.000Z",
+   "amount": -11,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-06-04T00:00:00.000Z",
+   "amount": -125,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אילקה"
+}, {
+   "date": "2017-06-04T00:00:00.000Z",
+   "amount": 19675,
+   "category": "Income",
+   "subCategory": "",
+   "paymentMethod": "Debit",
+   "payeePayer": "Apester"
+}, {
+   "date": "2017-06-05T00:00:00.000Z",
+   "amount": -83,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-06-06T00:00:00.000Z",
+   "amount": -71,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "10bis",
+   "payeePayer": "וולפנייטס"
+}, {
+   "date": "2017-06-06T00:00:00.000Z",
+   "amount": -19,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חניון"
+}, {
+   "date": "2017-06-06T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פיצוציה"
+}, {
+   "date": "2017-06-06T00:00:00.000Z",
+   "amount": -71,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-07T00:00:00.000Z",
+   "amount": -72,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-07T00:00:00.000Z",
+   "amount": -50,
+   "category": "Transportation",
+   "subCategory": "Bus",
+   "paymentMethod": "Cash",
+   "payeePayer": "דן"
+}, {
+   "date": "2017-06-08T00:00:00.000Z",
+   "amount": -110,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ספוטניק"
+}, {
+   "date": "2017-06-08T00:00:00.000Z",
+   "amount": -39,
+   "category": "Transportation",
+   "subCategory": "Train",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רכבת ישראל"
+}, {
+   "date": "2017-06-08T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-06-08T00:00:00.000Z",
+   "amount": -95,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-08T00:00:00.000Z",
+   "amount": -22,
+   "category": "Transportation",
+   "subCategory": "Train",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רכבת ישראל"
+}, {
+   "date": "2017-06-09T00:00:00.000Z",
+   "amount": -29,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-06-09T00:00:00.000Z",
+   "amount": -11,
+   "category": "Transportation",
+   "subCategory": "Train",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "רכבת ישראל"
+}, {
+   "date": "2017-06-09T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ארומה"
+}, {
+   "date": "2017-06-09T00:00:00.000Z",
+   "amount": -135,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-06-09T00:00:00.000Z",
+   "amount": -29,
+   "category": "Transportation",
+   "subCategory": "Taxi",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מונית"
+}, {
+   "date": "2017-06-10T00:00:00.000Z",
+   "amount": -45,
+   "category": "Entertainment",
+   "subCategory": "Video Games",
+   "paymentMethod": "PayPal",
+   "payeePayer": "Steam"
+}, {
+   "date": "2017-06-10T00:00:00.000Z",
+   "amount": -86,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-06-10T00:00:00.000Z",
+   "amount": -82,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סימטא"
+}, {
+   "date": "2017-06-11T00:00:00.000Z",
+   "amount": -18,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-11T00:00:00.000Z",
+   "amount": -40,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-12T00:00:00.000Z",
+   "amount": -68,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "פרוזדור"
+}, {
+   "date": "2017-06-12T00:00:00.000Z",
+   "amount": -5360,
+   "category": "Household",
+   "subCategory": "Rent",
+   "paymentMethod": "Check",
+   "payeePayer": "נאות רבקה"
+}, {
+   "date": "2017-06-12T00:00:00.000Z",
+   "amount": -34,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-06-13T00:00:00.000Z",
+   "amount": -66,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-13T00:00:00.000Z",
+   "amount": -60,
+   "category": "Other",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חנות עישון"
+}, {
+   "date": "2017-06-13T00:00:00.000Z",
+   "amount": -45,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-14T00:00:00.000Z",
+   "amount": -80,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "BBB"
+}, {
+   "date": "2017-06-14T00:00:00.000Z",
+   "amount": -58,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-15T00:00:00.000Z",
+   "amount": -22,
+   "category": "Transportation",
+   "subCategory": "Parking",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "חניון"
+}, {
+   "date": "2017-06-15T00:00:00.000Z",
+   "amount": -56,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-16T00:00:00.000Z",
+   "amount": -133,
+   "category": "Entertainment",
+   "subCategory": "Bar",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "בקי"
+}, {
+   "date": "2017-06-16T00:00:00.000Z",
+   "amount": -56,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עד העצם אקספרס"
+}, {
+   "date": "2017-06-16T00:00:00.000Z",
+   "amount": -200,
+   "category": "Transportation",
+   "subCategory": "Gas",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סונול"
+}, {
+   "date": "2017-06-16T00:00:00.000Z",
+   "amount": -200,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "אטליז איזו"
+}, {
+   "date": "2017-06-16T00:00:00.000Z",
+   "amount": -149,
+   "category": "Food",
+   "subCategory": "Restaurant",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "טראק דלוקס"
+}, {
+   "date": "2017-06-17T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-06-17T00:00:00.000Z",
+   "amount": -12,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "נון סטופ מרקט"
+}, {
+   "date": "2017-06-18T00:00:00.000Z",
+   "amount": -26,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-18T00:00:00.000Z",
+   "amount": -62,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}, {
+   "date": "2017-06-18T00:00:00.000Z",
+   "amount": -50,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-19T00:00:00.000Z",
+   "amount": -13,
+   "category": "Food",
+   "subCategory": "Snack",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "קסטל"
+}, {
+   "date": "2017-06-19T00:00:00.000Z",
+   "amount": -20,
+   "category": "Personal",
+   "subCategory": "Personal Care",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "סופרפארם"
+}, {
+   "date": "2017-06-19T00:00:00.000Z",
+   "amount": -32,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-20T00:00:00.000Z",
+   "amount": -53,
+   "category": "Tax",
+   "subCategory": "Other",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "עיריית תל אביב"
+}, {
+   "date": "2017-06-20T00:00:00.000Z",
+   "amount": -470,
+   "category": "Household",
+   "subCategory": "Veterinarian",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "ד\"ר רמי תמיר"
+}, {
+   "date": "2017-06-20T00:00:00.000Z",
+   "amount": -44,
+   "category": "Food",
+   "subCategory": "Groceries",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "מגה בעיר"
+}, {
+   "date": "2017-06-20T00:00:00.000Z",
+   "amount": -62,
+   "category": "Food",
+   "subCategory": "Delivery",
+   "paymentMethod": "Credit Card",
+   "payeePayer": "Coffee Bar"
+}]

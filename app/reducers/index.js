@@ -1,17 +1,11 @@
+import transactions from '../assets/transactions.json';
+
 export default function reducer(state = {}, action = {}) {
   switch (action.type) {
     case 'FILTER_TEXT_CHANGE':
-      return {
-        products: state.products,
-        filterText: action.filterText,
-        isStockOnly: state.isStockOnly,
-      };
+      return { ...state, filterText: action.filterText };
     case 'STOCK_ONLY_CHANGE':
-      return {
-        products: state.products,
-        filterText: state.filterText,
-        isStockOnly: action.isStockOnly,
-      };
+      return { ...state, isStockOnly: action.isStockOnly };
     default:
       return {
         products: [
@@ -24,6 +18,7 @@ export default function reducer(state = {}, action = {}) {
         ],
         filterText: '',
         isStockOnly: false,
+        transactions,
       };
   }
 }

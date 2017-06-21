@@ -1,41 +1,20 @@
 /* global document */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import PropTypes from 'prop-types';
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 import reducer from './reducers';
-import FilterableProductTable from './FilterableProductTable/FilterableProductTable.jsx';
-
-const user = {
-  firstName: 'Chen',
-  lastName: 'Doron',
-};
+import BalanceSheet from './BalanceSheet/BalanceSheet.jsx';
 
 const store = createStore(reducer);
-
-// Print state changes
 store.subscribe(() => console.log(store.getState()));
 
-class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.user = props.user;
-  }
-
-  static get propTypes() {
-    return {
-      user: PropTypes.object,
-    };
-  }
-
-  render() {
-    return (
+export default function App() {
+  return (
       <Provider store={store}>
-        <FilterableProductTable />
+        <BalanceSheet />
       </Provider>
-    );
-  }
+  );
 }
 
-ReactDOM.render(<App user={user} />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
